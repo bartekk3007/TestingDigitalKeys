@@ -1,2 +1,2 @@
 # TestingDigitalKeys
-Code demonstrates how encrypting with public key works and converting it to base64 
+Code demonstrates how encrypting with public key works and converting it to Base64 
